@@ -1,1 +1,1 @@
-const emptyArr = [];
+const emptyArr = ["Hassan"];
